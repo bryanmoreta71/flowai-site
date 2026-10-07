@@ -38,7 +38,7 @@ const demos = [
     name: "El Cacao de Luis",
     category: "Landing Page — B2B / Exportación",
     desc: "Sitio corporativo para proveedor de cacao enfocado en atraer compradores industriales a gran escala.",
-    url: "https://cacao.flowaiinfo.lat",
+    url: "https://flowaiinfo.lat/cacao",
     tags: ["React", "Next.js", "B2B"],
     accent: "from-amber-500 to-orange-600",
   },
